@@ -1,2 +1,20 @@
-# samsung_dreamlte_dump
- 
+## dreamltexx-user 9 PPR1.180610.011 G950FXXUCDVG4 release-keys
+- Manufacturer: samsung
+- Platform: 
+- Codename: dreamlte
+- Brand: samsung
+- Flavor: dreamltexx-user
+- Release Version: 9
+- Kernel Version: 4.4.111
+- Id: PPR1.180610.011
+- Incremental: G950FXXUCDVG4
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-GB
+- Screen Density: 480
+- Fingerprint: samsung/dreamltexx/dreamlte:9/PPR1.180610.011/G950FXXUCDVG4:user/release-keys
+- OTA version: 
+- Branch: dreamltexx-user-9-PPR1.180610.011-G950FXXUCDVG4-release-keys
+- Repo: samsung_dreamlte_dump
